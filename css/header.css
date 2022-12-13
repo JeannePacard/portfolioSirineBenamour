@@ -1,5 +1,9 @@
 /* header */
 
+.active {
+  font-family: text-bold;
+}
+
 .logo {
   width: 80%;
   margin-top: 6%;

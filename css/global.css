@@ -32,24 +32,24 @@ h3 {
 
 @font-face {
   font-family: "title";
-  src: url("/font/MATIOTT\ ELEGANT\ FONT.otf");
+  src: url("/font/elegant.otf");
 }
 
 /* texte */
 
 @font-face {
   font-family: "text-light";
-  src: url("/font/MADE\ Evolve\ Sans\ Light\ \(PERSONAL\ USE\).otf");
+  src: url("/font/EvolveSansLight.otf");
 }
 
 @font-face {
   font-family: "text-regular";
-  src: url("/font/MADE\ Evolve\ Sans\ Regular\ \(PERSONAL\ USE\).otf");
+  src: url("/font/EvolveSansRegular.otf");
 }
 
 @font-face {
   font-family: "text-bold";
-  src: url("/font/MADE\ Evolve\ Sans\ Bold\ \(PERSONAL\ USE\).otf");
+  src: url("/font/EvolveSansBold.otf");
 }
 
 .title {
